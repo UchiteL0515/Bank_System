@@ -1,0 +1,3 @@
+/home/alec/Documents/Bank System C++/build/CMakeFiles/bank_system.dir
+/home/alec/Documents/Bank System C++/build/CMakeFiles/edit_cache.dir
+/home/alec/Documents/Bank System C++/build/CMakeFiles/rebuild_cache.dir
